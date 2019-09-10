@@ -1,12 +1,12 @@
 /* margine e stile del body */
 body{
-  margin-left: 15%;
-  margin-right: 15%;
   background: url('../img/cielo.jpg');
   background-repeat: no-repeat;
+}
 
-
-
+main {
+   width: 80%;
+   margin: auto;
 }
 
 /* stile del logo */
