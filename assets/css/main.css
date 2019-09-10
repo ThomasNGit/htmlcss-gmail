@@ -49,6 +49,7 @@ main {
   font-weight: bolder;
   text-shadow: 2px 1px #000;
   color: white;
+  letter-spacing: 1.3px;
 }
 /* bordi seatchbar e pulsante */
 .searchbar{
@@ -84,6 +85,15 @@ main {
   margin: 1px;
   font-size: 1.1em;
   background-color: white;
+}
+
+.oggetto {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.boolean {
+  color: white;
 }
 
 /* effetto hover */
