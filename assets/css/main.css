@@ -17,16 +17,20 @@ main {
   font-family: catalunya, verdana, arial;
   font-weight: bolder;
   text-decoration: underline;
-  text-shadow: 2px 1px #991019;
+  text-shadow: 2px 1px #000;
+  height: 10px;
+  color: white;
 }
 
 /* stile testo sotto la searchbar */
 #yourmail{
   font-size: 140%;
   font-weight: bolder;
-  font-family: sunflower, sans-serif, verdana;
+  font-family: sans-serif, verdana;
   text-align: center;
   text-decoration: underline;
+  color: white;
+  text-shadow: 2px 1px #000;
 
 }
 
@@ -43,6 +47,8 @@ main {
   font-size: 1.1em;
   font-family: chapaza, cursive, verdana;
   font-weight: bolder;
+  text-shadow: 2px 1px #000;
+  color: white;
 }
 /* bordi seatchbar e pulsante */
 .searchbar{
